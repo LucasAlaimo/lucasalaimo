@@ -1,8 +1,7 @@
 ## Hola, soy Lucas Alaimo 👋
 
-- 💻 Estudiante de Desarrollo de Aplicaciones Web.
-- 🚀 Construyendo proyectos prácticos para mi portfolio.
-- 📚 Aprendiendo desarrollo web, programación y bases de datos.
+ 💻 Estudiante de Desarrollo de Aplicaciones Web.
+🛠️ En proceso de diseñar y desarrollar proyectos para mi portfolio.
 
 ### Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
