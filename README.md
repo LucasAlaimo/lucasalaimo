@@ -1,4 +1,4 @@
-## Hola, soy Lucas Alaimo 👋 👋
+## Hola, soy Lucas Alaimo 👋
 
 <!--
 **LucasAlaimo/lucasalaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
