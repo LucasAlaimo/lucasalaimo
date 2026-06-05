@@ -1,6 +1,7 @@
 ## Hola, soy Lucas Alaimo 👋
 
  💻 Estudiante de Desarrollo de Aplicaciones Web.
+ 
 🛠️ En proceso de diseñar y desarrollar proyectos para mi portfolio.
 
 ### Tecnologías
