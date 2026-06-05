@@ -2,7 +2,7 @@
 
  💻 Estudiante de Desarrollo de Aplicaciones Web.
  
-🛠️ Diseño y desarrollo de proyectos para mi portfolio en proceso.
+🛠️ Diseñando y desarrollando proyectos para mi portfolio.
 
 ### Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
